@@ -21,6 +21,10 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 
 🔹 [Hacker 101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 
+🔹 [Hacking Security Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
+
+
+
 
 
 
@@ -35,6 +39,8 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 
 🔹 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap) - 📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
 
+🔹[Hack Tricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+
 
 ## Fun
 
@@ -42,26 +48,23 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 
 🔹 [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 
+🔹 [Caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
+
+🔹 [Awesome SHodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
+
+🔹 [Windows Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
+
+
+
+
+
+
+
+
 
 ## Challenges 
 
 🔹 [Juice Shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-
-
-
-## OSINT
-
-
-🔹 [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media.
-
-🔹 [Git Graber](https://github.com/hisxo/gitGraber) - GitHub to search and find sensitive data in real time for different online services..
-
-🔹 [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
-
-
-
-
-
 
 
 ## Lists
@@ -79,16 +82,30 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 🔹 [Cheatsheet God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet
 
 
- 
+## OSINT
+
+
+🔹 [Social Analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across 400+ social media.
+
+🔹 [Git Graber](https://github.com/hisxo/gitGraber) - GitHub to search and find sensitive data in real time for different online services..
+
+🔹 [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+
+🔹 [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+
+
+
+
 
 ## Explots
 
 
 🔹 [Payloads All Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 
-🔹 [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced dork Search & Mass Exploit Scanner.
+
 
 🔹 [TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac
+
 
 ## Networking
  
@@ -97,5 +114,24 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
  ## Encryption
  
  🔹 [Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+ 
+ 🔹 [Stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
+ 
+ ## Scanners 
+ 
+ 
+🔹 [ATSCAN](https://github.com/AlisamTechnology/ATSCAN) - Advanced dork Search & Mass Exploit Scanner.
+
+🔹 [WhatWeb](https://github.com/urbanadventurer/WhatWeb) - Next generation web scanner
+
+🔹 [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
+
+## Shells
+
+🔹 [Evil Winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
+
+
+
+
 
 
