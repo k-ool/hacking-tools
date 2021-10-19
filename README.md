@@ -54,6 +54,10 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 
 🔹 [Windows Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 
+🔹 [Kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
+
+
+
 
 
 
@@ -66,6 +70,7 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 
 🔹 [Juice Shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 
+🔹 [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat 🐐 is a "Vulnerable by Design" Kubernetes Cluster. Designed to be an intentionally vulnerable cluster environment to learn and practice Kubernetes security 🔐
 
 ## Lists
 
@@ -74,12 +79,13 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 🔹 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 
-
 🔹 [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff.
 
 🔹  [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
  
 🔹 [Cheatsheet God](https://github.com/OlivierLaflamme/Cheatsheet-God) - Penetration Testing Reference Bank - OSCP / PTP & PTX Cheatsheet
+
+🔹 [WebHackerWeapons](https://github.com/hahwul/WebHackersWeapons) - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting
 
 
 ## OSINT
@@ -94,7 +100,25 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 🔹 [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 
 
+## Accidents
 
+🔹 [Github Dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
+
+🔹 [Gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
+
+
+
+
+
+
+
+
+## Reconnaisance 
+
+
+🔹 [Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
+
+🔹 [reconFTW](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 
 
 ## Explots
@@ -103,13 +127,15 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 🔹 [Payloads All Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 
 
-
 🔹 [TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac
 
 
 ## Networking
  
- 🔹 [Bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+🔹 [Bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+ 
+🔹 [BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
+
 
  ## Encryption
  
@@ -129,6 +155,10 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 ## Shells
 
 🔹 [Evil Winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
+
+## Mobile Phone
+
+🔹 [Ghost](https://github.com/EntySec/Ghost) - Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device.
 
 
 
