@@ -121,7 +121,7 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 🔹 [reconFTW](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 
 
-## Explots
+## Exploits
 
 
 🔹 [Payloads All Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
