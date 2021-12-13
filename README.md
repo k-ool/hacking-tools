@@ -7,7 +7,7 @@
 
 ## A collection of useful tools
 
-- [Privacy Guide](https://github.com/71Zombie/Privacy)
+- [Privacy](https://github.com/71Zombie/Privacy)
 - [Hacking-Tools](https://github.com/71Zombie/hacking-tools)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
