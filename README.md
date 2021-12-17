@@ -53,7 +53,7 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 
 🔹 [Caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
 
-🔹 [Awesome SHodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
+🔹 [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 
 🔹 [Windows Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 
@@ -81,6 +81,7 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 
 🔹 [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
+🔹 [Awesome OSINT](https://github.com/jivoi/awesome-osint) - 😱 A curated list of amazingly awesome OSINT
 
 🔹 [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff.
 
@@ -101,6 +102,8 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 🔹 [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 
 🔹 [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+
+🔹 [ShodanTools](https://github.com/n0x08/ShodanTools) - Collection of scripts & fingerprinting tricks for Shodan.io
 
 
 ## Accidents
