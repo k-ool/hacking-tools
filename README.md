@@ -27,11 +27,6 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 🔹 [Hacking Security Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 
 
-
-
-
-
-
 ## Guides
 
 🔹 [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system.
@@ -58,15 +53,6 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 🔹 [Windows Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
 
 🔹 [Kickthemout](https://github.com/k4m4/kickthemout) - 💤 Kick devices off your network by performing an ARP Spoof attack.
-
-
-
-
-
-
-
-
-
 
 
 ## Challenges 
@@ -111,12 +97,6 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 🔹 [Github Dorks](https://github.com/techgaun/github-dorks) - Find leaked secrets via github search
 
 🔹 [Gitjacker](https://github.com/liamg/gitjacker) - 🔪 :octocat: Leak git repositories from misconfigured websites
-
-
-
-
-
-
 
 
 ## Reconnaisance 
@@ -166,6 +146,9 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 
 🔹 [Ghost](https://github.com/EntySec/Ghost) - Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device.
 
+## Social Media
+
+🔹 [FireCracker](https://github.com/Ranginang67/Firecrack) - Firecrack pentest tools: Facebook hacking random attack, deface, admin finder, bing dorking
 
 
 
