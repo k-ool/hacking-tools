@@ -146,11 +146,19 @@ Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking
 
 🔹 [Ghost](https://github.com/EntySec/Ghost) - Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device.
 
+🔹 [HackDroid](https://github.com/thehackingsage/hackdroid) - Pentesting Using Android
+
+
 ## Social Media
 
 🔹 [FireCracker](https://github.com/Ranginang67/Firecrack) - Firecrack pentest tools: Facebook hacking random attack, deface, admin finder, bing dorking
 
+## DOS
 
+🔹 [DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper) - DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
 
+🔹 [Bombardier](https://github.com/almerico/bombardier) - bombardier
 
+🔹 [MHDDos](https://github.com/MHProDev/MHDDoS) - Best DDoS Attack Script Python3, Cyber Attack With 40 Methods
 
+🔹 [UFONet](https://github.com/epsylon/ufonet) - UFONet - Denial of Service Toolkit
